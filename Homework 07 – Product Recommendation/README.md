@@ -42,7 +42,7 @@ Dataset URL : https://www.kaggle.com/tunguz/online-retail
 
 ### Product Recommendation
 
-![Recommendation1](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/AssociationRules4.png)
+![Recommendation1](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/ProductionRecommendation1.png)
 
 ![Recommendation2](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/ProductionRecommendation2.png)
 
