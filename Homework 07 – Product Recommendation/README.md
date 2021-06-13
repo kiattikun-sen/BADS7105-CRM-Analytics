@@ -32,7 +32,7 @@ Dataset URL : https://www.kaggle.com/tunguz/online-retail
 
 ### Association Rules Examples
 
-![Rule1](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/tree/main/Homework%2007%20%E2%80%93%20Product%20Recommendation)
+![Rule1](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/AssociationRules1.png)
 
 ![Rule2](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/AssociationRules2.png)
 
