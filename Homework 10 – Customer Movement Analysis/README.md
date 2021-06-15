@@ -9,7 +9,7 @@ Customer are grouped into 4 categories.
 |Reactivated|True|False|True|
 |Churn|False|True||
 
-### The Data Visualization
+### The Data Visualization using Power BI
 
 ![MovementAnalysis](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2010%20%E2%80%93%20Customer%20Movement%20Analysis/Report_Customer_Movement.png)
 
