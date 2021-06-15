@@ -12,10 +12,13 @@
 
 ### Build 3 Topics
 
+#### Topic1
 ![Topic1](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2011%20%E2%80%93%20Voice%20of%20Customer/Topics1.png)  
 
+#### Topic2
 ![Topic2](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2011%20%E2%80%93%20Voice%20of%20Customer/Topics2.png)  
 
+#### Topic3
 ![Topic3](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2011%20%E2%80%93%20Voice%20of%20Customer/Topics3.png)
 
 ### Summary Topics For Each Restaurants
