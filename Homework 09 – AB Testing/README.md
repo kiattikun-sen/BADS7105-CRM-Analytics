@@ -1,12 +1,12 @@
 # A/B Testing
 
-- Overview
+## Overview
 
 ![IntroSlide](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2009%20%E2%80%93%20AB%20Testing/IntroSlide.png)
 
 ![Slide1](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2009%20%E2%80%93%20AB%20Testing/Slide1.png)
 
-- Dataset  
+## Dataset  
 
 ![DataSet](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2009%20%E2%80%93%20AB%20Testing/Slide2.png)
 
@@ -16,11 +16,11 @@
 
 ![StatisticalSummary2](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2009%20%E2%80%93%20AB%20Testing/Slide6.png)
 
-- Result
+## Result
 
 ![Result](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2009%20%E2%80%93%20AB%20Testing/Slide4.png)
 
-- Data Processing
+## Data Processing
 
 ![ReadExcelFile](https://github.com/kiattikun-sen/BADS7105-CRM-Analytics/blob/main/Homework%2009%20%E2%80%93%20AB%20Testing/Slide7.png)
 
